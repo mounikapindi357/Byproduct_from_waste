@@ -81,8 +81,6 @@ npm start
 
 - Improved notifications and donation tracking
 - Enhanced search and filtering
-- Better input validation and error handling
-
+- Introduce a Volunteer role for donation collection and delivery tracking
+- Enable NGOs to assign volunteers and track donation delivery status
 ---
-
-*Developed as a team project. I contributed to frontend development, backend integration, and database-related tasks.*
