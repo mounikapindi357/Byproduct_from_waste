@@ -37,8 +37,8 @@ A full-stack web application designed to reduce food waste and promote recycling
 ### 1. Clone Repository
 
 ```bash
-git clone <https://github.com/mounikapindi357/Byproduct_from_waste>
-cd <your-project-folder>
+git clone https://github.com/mounikapindi357/Byproduct_from_waste
+cd byproduct_from_waste
 ```
 
 ### 2. Backend Setup
